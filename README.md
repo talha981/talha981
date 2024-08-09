@@ -4,7 +4,6 @@ I am a proficient Full Stack Web Developer specializing in Next.js and TypeScrip
 
 ## 🛠️ Tech Stack
 
-<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -22,21 +21,19 @@ I am a proficient Full Stack Web Developer specializing in Next.js and TypeScrip
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)
 ![C/C++](https://img.shields.io/badge/-C%2FC++-00599C?logo=c&logoColor=white&style=for-the-badge)
 
-</div>
 
 ## 🎨 Graphic Design Tools
 
-<div align="center">
 
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 
-</div>
+
 
 ## 🤝 Connect with Me
 
-<div align="center">
+
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/your-profile)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/your-profile)
@@ -45,4 +42,4 @@ I am a proficient Full Stack Web Developer specializing in Next.js and TypeScrip
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?logo=github&logoColor=white&style=for-the-badge)](https://your-portfolio-link.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/your-invite-link)
 
-</div>
+
