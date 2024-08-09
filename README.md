@@ -12,6 +12,7 @@ I am a proficient Full Stack Web Developer specializing in Next.js and TypeScrip
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=for-the-badge)
@@ -20,6 +21,7 @@ I am a proficient Full Stack Web Developer specializing in Next.js and TypeScrip
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)
 ![C/C++](https://img.shields.io/badge/-C%2FC++-00599C?logo=c&logoColor=white&style=for-the-badge)
+
 
 
 ## 🎨 Graphic Design Tools
