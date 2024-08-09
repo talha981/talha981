@@ -2,10 +2,10 @@
 
 I am a proficient Full Stack Web Developer specializing in Next.js and TypeScript. With a solid foundation in both frontend and backend development, I am equipped to handle a wide range of web development projects. My expertise includes creating dynamic, responsive web applications and implementing robust server-side solutions. Currently, I am contributing my skills to projects at the Parliament House in Pakistan, where I work on cutting-edge technology solutions to support governmental operations. My commitment to excellence and continuous learning ensures that I stay at the forefront of web development trends and technologies.
 
-## 🛠️ Tech Stack
 
 <div align="center">
 
+## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -24,19 +24,19 @@ I am a proficient Full Stack Web Developer specializing in Next.js and TypeScrip
 
 </div>
 
-## 🎨 Graphic Design Tools
 
 <div align="center">
 
+## 🎨 Graphic Design Tools
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 
 </div>
 
-## 🤝 Connect with Me
 
 <div align="center">
+## 🤝 Connect with Me
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/your-profile)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/your-profile)
